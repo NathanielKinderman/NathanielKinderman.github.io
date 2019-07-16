@@ -1,0 +1,51 @@
+body {
+    background: url(./images/forest.jpg);
+    background-size: cover;
+}
+h1,h2,h4,th,td{
+	color:DodgerBlue;
+	text-align: center
+}
+h3{
+	color:GhostWhite;
+	text-align: center
+}
+a:link {
+color: GhostWhite;
+}
+a:visited {
+color: OrangeRed;
+}
+a:hover {
+color: FireBrick;
+}
+
+a {
+	font-size: 50px;
+}
+
+.large-font {
+	font-size: 100px;
+}
+
+.boldclass{
+	font-weight: bold;
+	color: blue;
+}
+#bigID{
+ font-size: 50px;
+}
+li{
+	color:GhostWhite;
+	font-size: 50px;
+}
+th{
+	font-size: 75px;
+}
+td{
+	font-size:75px;
+}
+.randomStyle{
+	font-size: 300px;
+	font-stretch: 
+}
